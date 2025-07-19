@@ -3,7 +3,7 @@
 #Live demo
  https://sajedeh-dev.github.io/zarinpal/
 
- #features
+ #features :
  HTML
  CSS
  Responsive
